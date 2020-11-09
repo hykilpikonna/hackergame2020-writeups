@@ -1,6 +1,6 @@
 # 小桂的 wwwwwwwriteup (?
 
-![pageviews](https://s01.flagcounter.com/mini/Sl0j/bg_FFE8E8/txt_FF6969/border_ED8C9C/flags_0/)
+<img src="https://s01.flagcounter.com/mini/Sl0j/bg_FFE8E8/txt_FF6969/border_ED8C9C/flags_0/" />
 
 ### 先说说小桂的背景w
 
